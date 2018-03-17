@@ -1,0 +1,24 @@
+{
+  "name": "pelican",
+  "version": "1.0.0",
+  "description": "A simple skill to return the status of an account balance ina fun and friendly way",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "alexa",
+    "skill",
+    "fact",
+	  "property",
+	  "Ireland",
+	  "Giants Causeway",
+	  "Ballycastle"
+  ],
+  "author": "Neil Pimley, Raj Dosanjh & Bailey Kursar",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "alexa-sdk": "^1.0.0",
+    "ical": "^0.5.0"
+  }
+}
